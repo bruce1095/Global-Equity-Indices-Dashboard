@@ -4,7 +4,14 @@
 
 This project is a Global Equity Indices Dashboard built using Python and Yahoo Finance API. It tracks and visualizes major equity indices across the Americas, Europe, and APAC regions. The dashboard provides near real-time insights through dynamic sparkline charts, empowering investors, traders, and analysts to monitor regional market trends effectively.
 
+
+![download](https://github.com/user-attachments/assets/76fc0dbc-35b6-4829-a669-a4c72229d460)
+![download-1](https://github.com/user-attachments/assets/13b6e0df-5c80-4907-9efd-de3019b85f4b)
+![download-2](https://github.com/user-attachments/assets/1d538a4e-acc5-4718-8a99-d2bb2f90aaf8)
+
+
 🌎 Regions & Indices Covered:
+
 
 🇺🇸 Americas:
 
